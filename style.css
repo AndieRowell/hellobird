@@ -67,7 +67,8 @@ nav a:hover {
 
 button {
     padding: 1rem 3rem;
-    font-size: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
     border: none;
     color:#000;
     background:#6fff00;
